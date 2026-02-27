@@ -19,7 +19,7 @@ public final class Constants {
     // Motor controller IDs for drivetrain motors
     public static final int LEFT_LEADER_ID = 10;
     public static final int LEFT_FOLLOWER_ID = 11;
-    public static final int RIGHT_LEADER_ID = 0;
+    public static final int RIGHT_LEADER_ID = 9;
     public static final int RIGHT_FOLLOWER_ID = 8;
 
     // Current limit for drivetrain motors. 60A is a reasonable maximum to reduce
