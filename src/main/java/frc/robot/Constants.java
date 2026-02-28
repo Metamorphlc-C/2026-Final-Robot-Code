@@ -60,13 +60,10 @@ public final class Constants {
   }
 }
 // hi
-<<<<<<< HEAD
 
 
 
 
 // yo dude
-=======
 // hello
 //hi
->>>>>>> 822518d72dcf4e3c372af1c64f73f6f181a4fb10
